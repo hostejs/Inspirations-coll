@@ -4,3 +4,11 @@ Indentation is the enemy: Writing less complex JavaScript,http://jrsinclair.com/
 68 Resources to help you to create programming languages,https://tomassetti.me/resources-create-programming-languages/,programming languages compilers
 Maciej Godek "The Culture of Scheme Programming",https://youtu.be/wd-2CDWMetc,Scheme programming
 F# Has Won Me Over,http://www.prigrammer.com/?p=363,functional f# world
+Designing Front-end Components,https://ponyfoo.com/articles/designing-front-end-components,front-end dev
+Pocket sized js,https://www.dotconferences.com/2015/12/henrik-joreteg-pocket-sized-javascript,henrik joreteg js
+Viability of js frameworks on mobile,https://joreteg.com/blog/viability-of-js-frameworks-on-mobile,henrik joreteg js
+DSV Style,http://www.catb.org/esr/writings/taoup/html/ch05s02.html#id2901882,data formats
+Monads,https://bartoszmilewski.com/2016/11/21/monads-programmers-definition/,bartosz milewski functional prog
+Demystifying the Monad,https://medium.com/@sinisalouc/demistifying-the-monad-in-scala-part-2-a-category-theory-approach-2f0a6d370eff,functional prog
+A gentle introduction to functional javascript,http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/,functional js
+Functional style follow-up,https://ericlippert.com/2016/01/14/functional-style-follow-up/,eric lippert ocaml f# functional
