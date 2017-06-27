@@ -1,22 +1,6 @@
-Learning VIM,http://benmccormick.org/learning-vim-in-2014,text editing
-Build Your Own Text Editor,http://viewsourcecode.org/snaptoken/kilo/,text editor programming
-MAL,https://github.com/kanaka/mal,LISP clojure interpreter
-Articulate LISP,http://articulate-lisp.com/,LISP info
-Fingerprint Me,https://browserprint.info/,browser footprint id
-Kobble,https://kobble.io/#,content and website pub platform
-gRPC-Web: Moving past REST+JSON towards type-safe Web APIs,https://improbable.io/games/blog/grpc-web-moving-past-restjson-towards-type-safe-web-apis,js and web api 
-Lumina Desktop Environment,https://lumina-desktop.org/,unix desktop
 James Clear,http://jamesclear.com/articles,productivity blogger
-Build Yourself a Redux,https://zapier.com/engineering/how-to-build-redux/,js redux library
-GUI Gallery,http://toastytech.com/guis/index.html,GUIs
-Asynchronous Functional Reactive Programming for GUIs,https://blog.acolyer.org/2015/12/09/elm/,Elm - Adrian Colyer
-?,https://sing.stanford.edu/site/publications/levy-plos15-tock.pdf,PLOS
-Low Level Programming University,https://github.com/gurugio/lowlevelprogramming-university,Low level programming
-Semantic UI,https://semantic-ui.com/,UI language of the web
 Why ML/OCaml are good for writing compiles,http://flint.cs.yale.edu/cs421/case-for-ml.html,ML and OCaml functional programming compiles
-SDF Public Access UNIX,http://sdf.org/?welcome,UNIX online
-How to write a simple operating system,http://mikeos.sourceforge.net/write-your-own-os.html,Build an OS
 Indentation is the enemy: Writing less complex JavaScript,http://jrsinclair.com/articles/2017/indentation-is-the-enemy-less-complex-javascript/,JS
 68 Resources to help you to create programming languages,https://tomassetti.me/resources-create-programming-languages/,programming languages compilers
-Awesome Windows,https://github.com/Awesome-Windows/Awesome,Windows tools
 Maciej Godek "The Culture of Scheme Programming",https://youtu.be/wd-2CDWMetc,Scheme programming
+F# Has Won Me Over,http://www.prigrammer.com/?p=363,functional f# world
