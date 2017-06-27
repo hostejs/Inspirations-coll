@@ -16,3 +16,6 @@ Lumina Desktop Environment,https://lumina-desktop.org/,unix desktop
 vi mode your shell,https://opensource.com/article/17/3/fun-vi-mode-your-shell,vi command line editing
 10 minute vim exercises,https://github.com/steveshogren/10-minute-vim-exercises,vim editing howto
 nearley,http://nearley.js.org/,text parser in js
+Little Lisp interpreter,https://maryrosecook.com/blog/post/little-lisp-interpreter,example of LISP interpreter
+So You Want To Write Your Own Language?,http://www.drdobbs.com/architecture-and-design/so-you-want-to-write-your-own-language/240165488,write a PL
+X-tag,http://x-tag.github.io/,web components from MS
