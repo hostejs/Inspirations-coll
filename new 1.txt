@@ -1,0 +1,54 @@
+Brett Victor
+	- Inventing on Principle
+		- Although code had increasingly become the tool of choice for creating dynamic behavior, it remained one of the worst tools for understanding it.
+		- show that you could mitigate that problem by making the connection between a system’s behavior and its code immediate
+	- Stop Drawing Dead Fish
+	- Drawing Dynamic Visualizations
+- "model-based design"
+	- Model Based Engineering (MDE)
+	- Esterel Technologies (now owned by ANSYS)
+	- The model becomes the detailed blueprint that the computer would use to do the actual programming
+- Margaret Hamilton, a celebrated software engineer on the Apollo missions—in fact the coiner of the phrase "software engineering"—told me that during her first year at the Draper lab at MIT, in 1964,
+- Chris Newcombe - TLA+
+	- "Temporal Logic of Actions"
+	- language was invented by Leslie Lamport, a Turing Award–winning computer scientist
+	- He tried also not to use the terms "formal," "verification," or "proof," which reminded programmers of tedious classroom exercises. Instead, he presented TLA+ as a new kind of "pseudocode," a stepping-stone to real code that allowed you to exhaustively test your algorithms—and that got you thinking precisely early on in the design process. "Engineers think in terms of debugging rather than ‘verification,’" he wrote, so he titled his internal talk on the subject to fellow Amazon engineers "Debugging Designs."
+	- https://medium.com/espark-engineering-blog/formal-methods-in-practice-8f20d72bce4f#.u3grkd2i3
+	- https://learntla.com/introduction/
+	- https://github.com/tlaplus/Examples/blob/master/specifications/DieHard/DieHard.tla
+	- https://www.youtube.com/watch?v=6cAbgAaEOVE
+	- https://github.com/tlaplus/Examples/tree/master/specifications
+	- http://lamport.azurewebsites.net/video/intro.html
+	- http://lamport.azurewebsites.net/tla/toolbox.html
+	- https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0ahUKEwjL75f4kv3WAhUq4YMKHUEqAxAQFghIMAc&url=https%3A%2F%2Fnews.ycombinator.com%2Fitem%3Fid%3D10220264&usg=AOvVaw2jExLgmhZlbUBCIaY_r1RA
+	
+	- SAM Pattern (State/Action/Model)
+		- SAM can also be used for stateful API/Microservice orchestrations 
+		- http://sam.js.org/
+		- http://www.ebpml.org/blog15/2015/06/designing-a-reliable-api-call-component-with-sam/
+		- http://cloudsentinel.com/sam-state-machines-and-computation.pptx
+	- Dafny
+	- WhyML/Why3
+	- akka.io, http://erlang.org/documentation/doc/4.8.2/doc/design_principles/fsm.html, http://doc.akka.io/docs/akka/current/java/fsm.html
+	- PlusCal (veneer on TLA)
+	- Promela and CSPm
+	- Bloom - https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012/Bloom-Disorderly-Programming-for-a-Distributed-World
+	
+- In many ways this is what APL was originally about. Ken Iverson used it to describe the operation of early IBM computers while at IBM.
+	- "A Formal Description of System/360"
+	- https://www.yumpu.com/en/document/view/40763566/a-formal-description-of-system-360
+	
+- https://repl.it/languages
+- www.tryfsharp.org
+- tryfs.net/
+- fsharpforfunandprofit.com/installing-and-using/
+- https://github.com/StrykerKKD/simple-repl-in-reasonml
+- https://reasonml.github.io/try/
+- https://reasonml.github.io/guide/ocaml/
+- https://replit.canny.io/languages-requests/p/ocamlreasonml
+- https://protoship.io/blog/2017/05/10/an-invitation-to-reasonml.html
+- https://elixirnation.io/learning/try-elixir-practice-elixir-in-interactive-website
+- tryelixir.online/
+- try-elixir.herokuapp.com/
+- elixirplayground.com/
+- elixir-lang.org/
