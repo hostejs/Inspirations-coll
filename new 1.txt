@@ -52,3 +52,15 @@ Brett Victor
 - try-elixir.herokuapp.com/
 - elixirplayground.com/
 - elixir-lang.org/
+
+- CSS stuff:
+	- https://v4-alpha.getbootstrap.com/content/reboot
+	- https://scotch.io/tutorials/a-look-at-bootstrap-4s-new-reset-rebootcss
+
+- https://www.xda-developers.com/new-app-shares-links-using-ultrasound/
+- RFID
+- NEAR FIELD COMM
+- WIFI
+- BLUETOOTH
+- turn old smartphone into hotspot, broadcast, wirelessly
+- send url or data via signal
