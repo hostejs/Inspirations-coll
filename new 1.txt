@@ -67,35 +67,14 @@ Brett Victor
 
 https://www.thomasstreet.com/work/using-pattern-matching-to-build-a-small-lazy-language-in-racket
 https://blog.jverkamp.com/2013/08/21/a-tiny-virtual-machine-in-racket/
-https://www.sitepoint.com/how-to-host-static-sites-for-free-with-an-automated-pipeline/
-               https://jamstack.org/resources/
-               https://www.staticgen.com/about
-               https://www.sitepoint.com/jamstack-tools-services-apis/
-               https://www.sitepoint.com/how-we-built-a-serverless-web-app-for-the-stax-console/
-               https://css-tricks.com/using-trello-as-a-super-simple-cms/
-               https://jamstack.email/?utm_source=SitePoint&utm_medium=email&utm_campaign=SitePointWeekly
-               https://www.stackbit.com/blog/complete-guide-netlify-forms/?utm_source=SitePoint&utm_medium=email&utm_campaign=SitePointWeekly
-               https://webdev-il.blogspot.com/2011/05/html5-video-and-how-to-add-webm-to-web.html
-           
-           https://pixielang.readthedocs.io/en/latest/
-           https://buttercms.com/blog/javascript-ui-frameworks-libraries-for-2020
-           https://en.m.wikipedia.org/wiki/List_of_Linux_distributions
+https://en.m.wikipedia.org/wiki/List_of_Linux_distributions
            https://news.ycombinator.com/item?id=23445742
            https://www.best-books.dev/list/best-programming-books
            https://tomassetti.me/resources-create-programming-languages/
            http://blog.jenkster.com/2015/12/what-is-functional-programming.html
            http://skilldrick.github.io/easyforth/
            https://en.wikipedia.org/wiki/Declarative_programming
-           https://medium.com/@fkrautwald/plug-and-play-all-your-observable-streams-with-cycle-js-e543fc287872
-           https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/
-           https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
-           https://github.com/motorcyclejs/motorcyclejs
-           https://cycle.js.org/
-           https://github.com/getify/You-Dont-Know-JS
-           http://eloquentjavascript.net/
-           http://read.humanjavascript.com/ch01-introduction.html
-           http://jstherightway.org/
-           http://www.super-script.us/2015/essential-js-links.html
+           
            http://www.buildyourownlisp.com/
                    http://archive.vector.org.uk/art10011550
                    https://pierrebeaucamp.com/posts/trying-to-demystify-K-Q-KDB/
