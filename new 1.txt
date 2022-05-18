@@ -117,13 +117,7 @@ https://en.m.wikipedia.org/wiki/List_of_Linux_distributions
                    https://cloudblogs.microsoft.com/opensource/2019/10/16/announcing-dapr-open-source-project-build-microservice-applications/
                    https://www.wescheme.org/
                
-               https://www.rollapp.com/app/drracket#/app/drracket/modal
-               http://app.kodowa.com/playground
-           
-           https://azure.microsoft.com/en-us/services/virtual-desktop/
-       
-        
-            https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/
+	       https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/
             
             
             https://medium.com/darklang/the-design-of-dark-59f5d38e52d2
