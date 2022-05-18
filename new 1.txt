@@ -70,7 +70,7 @@ https://blog.jverkamp.com/2013/08/21/a-tiny-virtual-machine-in-racket/
 https://en.m.wikipedia.org/wiki/List_of_Linux_distributions
            https://news.ycombinator.com/item?id=23445742
            https://www.best-books.dev/list/best-programming-books
-           https://tomassetti.me/resources-create-programming-languages/
+           
            http://blog.jenkster.com/2015/12/what-is-functional-programming.html
            http://skilldrick.github.io/easyforth/
            https://en.wikipedia.org/wiki/Declarative_programming
@@ -124,9 +124,9 @@ https://en.m.wikipedia.org/wiki/List_of_Linux_distributions
        
         
             https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/
-            http://breuleux.net/blog/oexprs.html
-            http://kparc.com/lisp.txt
+            
+            
             https://medium.com/darklang/the-design-of-dark-59f5d38e52d2
             https://medium.com/darklang/real-problems-with-functional-languages-efe668c5264a
             https://medium.com/darklang/how-dark-deploys-code-in-50ms-771c6dd60671
-            https://beautifulracket.com/appendix/why-lop-why-racket.html
+            
