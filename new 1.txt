@@ -65,12 +65,6 @@ Brett Victor
 - turn old smartphone into hotspot, broadcast, wirelessly
 - send url or data via signal
 
-https://www.thomasstreet.com/work/using-pattern-matching-to-build-a-small-lazy-language-in-racket
-https://blog.jverkamp.com/2013/08/21/a-tiny-virtual-machine-in-racket/
-https://en.m.wikipedia.org/wiki/List_of_Linux_distributions
-           https://news.ycombinator.com/item?id=23445742
-           https://www.best-books.dev/list/best-programming-books
-           
            http://blog.jenkster.com/2015/12/what-is-functional-programming.html
            http://skilldrick.github.io/easyforth/
            https://en.wikipedia.org/wiki/Declarative_programming
@@ -167,22 +161,7 @@ https://felleisen.org/matthias/
 https://darklang.com/
 https://doisinkidney.com/posts/2019-10-02-what-is-good-about-haskell.html
 http://archive.vector.org.uk/art10501320
-http://archive.vector.org.uk/art10011550
-https://pierrebeaucamp.com/posts/trying-to-demystify-K-Q-KDB/
-http://coding-is-like-cooking.info/2013/09/an-introduction-to-array-languages/
-http://breuleux.net/blog/oexprs.html
-http://lambda-the-ultimate.org/node/4879
-https://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html
-https://superkotlin.com/kotlin-javascript/
-https://dustycloud.org/blog/racket-is-an-acceptable-python/
-https://www.btbytes.com/pl.html
-https://norvig.com/lispy.html
-https://futureofcoding.org/catalog/
-http://blog.fogus.me/
-https://lisp.sh/
-https://www.quora.com/Experienced-programmers-and-computer-scientists-what-are-some-really-old-or-even-nearly-forgotten-books-you-think-every-new-programmer-should-read/answer/Alan-Kay-11?share=1
-https://serverracket.com/
-https://futureofcoding.org/
+
 http://tomasp.net/blog/2018/write-your-own-excel/
 https://blog.sigplan.org/2019/07/09/my-first-fifteen-compilers/
 https://queue.acm.org/detail.cfm?id=2068896
